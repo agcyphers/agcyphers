@@ -8,7 +8,7 @@ I work in Xojo, JavaScript, TypeScript, HTML, CSS, and PHP. Building cool Web an
 ---  
 [Twitter](https://twitter.com/graffitisuite/) | [Mastodon](https://mastodon.social/@graffitisuite) | [BlueSky](https://bsky.app/profile/graffitisuite.com) | [LinkedIn](https://www.linkedin.com/in/agcyphers/) | [Xojo](https://forum.xojo.com/u/anthony_g_cyphers/summary)
 ```math
-\ce{$\unicode[pointer-events: none; opacity: 0.25; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1; background: url('https://raw.githubusercontent.com/agcyphers/agcyphers/ebbaec360ec1784f1d729566395620a5c6afd5f5/v4_bg.png');]{x0000}$}
+\ce{$\unicode[pointer-events: none; opacity: 0.25 !important; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1; background: url('https://raw.githubusercontent.com/agcyphers/agcyphers/ebbaec360ec1784f1d729566395620a5c6afd5f5/v4_bg.png');]{x0000}$}
 
 <!--
 **agcyphers/agcyphers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
