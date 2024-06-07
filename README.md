@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<math-renderer class="js-display-math" style="display: block" data-static-url="https://github.githubassets.com/static" data-run-id="bb30aaf899e50fff663d95d8bd808820" data-catalyst=""><mjx-container style="position: relative;" display="true" jax="CHTML" class="MathJax CtxtMenu_Attached_0" tabindex="0" ctxtmenu_counter="0"><mjx-math style="margin-left: 0px; margin-right: 0px;" aria-hidden="true" class="MJX-TEX" display="true"><mjx-texatom><mjx-mtext style="font-family: goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');"><mjx-utext></mjx-utext></mjx-mtext></mjx-texatom></mjx-math><mjx-assistive-mml display="block" unselectable="on"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mtext></mtext></mrow></math></mjx-assistive-mml></mjx-container></math-renderer>
+$<mjx-mtext style="font-family: goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');"><mjx-utext></mjx-utext></mjx-mtext>$
 <!--
 **agcyphers/agcyphers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
