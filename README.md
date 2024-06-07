@@ -1,10 +1,10 @@
 ## I'm Anthony 👋
-### [GraffitiSuite](https://graffitisuite.com) Sole Proprietor and Lead Developer  
-### [Xojo](https://www.xojo.com/mvp/) Most Valuable Professional  
-### 2019 [Xojo Design Awards](https://www.xojo.com/designawards/pastwinners/2019/) Winner  
-  
+- [GraffitiSuite](https://graffitisuite.com) Sole Proprietor and Lead Developer  
+- [Xojo](https://www.xojo.com/mvp/) Most Valuable Professional  
+- 2019 [Xojo Design Awards](https://www.xojo.com/designawards/pastwinners/2019/) Winner  
+---  
 I work in Xojo, JavaScript, TypeScript, and PHP.
-  
+---  
 Build cool UIs and their elements is my MO.
 
 ```math
