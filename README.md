@@ -1,5 +1,5 @@
 ## Hi there 👋
-GraffitiSuite Sole Proprietor and Lead Developer
+GraffitiSuite Sole Proprietor and Lead Developer\\
 Xojo Most Valuable Professional
 2019 Xojo Design Awards Winner
 
