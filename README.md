@@ -2,9 +2,9 @@
 ### GraffitiSuite Sole Proprietor and Lead Developer  
 ### Xojo Most Valuable Professional  
 ### 2019 Xojo Design Awards Winner  
----  
+  
 I work in Xojo, JavaScript, TypeScript, and PHP.
----  
+  
 Build cool UIs and their elements is my MO.
 
 ```math
