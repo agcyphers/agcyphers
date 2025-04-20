@@ -6,4 +6,4 @@
 I work in Xojo, JavaScript, TypeScript, HTML, CSS and PHP. Building cool Web and Desktop UIs (and their elements) is my MO.
 
 ---  
-[Twitter](https://twitter.com/graffitisuite/) | [Mastodon](https://mastodon.social/@graffitisuite) | [BlueSky](https://bsky.app/profile/graffitisuite.com) | [LinkedIn](https://www.linkedin.com/in/agcyphers/) | [Xojo](https://forum.xojo.com/u/anthony_g_cyphers/summary)
+[X](https://twitter.com/graffitisuite/) | [Mastodon](https://mastodon.social/@graffitisuite) | [BlueSky](https://bsky.app/profile/graffitisuite.com) | [LinkedIn](https://www.linkedin.com/in/agcyphers/) | [Xojo](https://forum.xojo.com/u/anthony_g_cyphers/summary)
